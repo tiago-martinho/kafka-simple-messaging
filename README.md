@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You should have both a zookeeper and cp-kafka instances running before running the the consumer and producer.
+You should have both a zookeeper and cp-kafka instances running before running the consumer and producer.
 To avoid installs on the local machine and for ease of use I used docker. Notice that Zookeeper and cp-kafka have to be on the same network for this to work.
 
 First run Zookeeper in docker:
